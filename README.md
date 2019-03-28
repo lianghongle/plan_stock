@@ -1,6 +1,6 @@
 # plan_stock
 stock plan 
-* [数据：plan_stock_data](https://github.com/lianghongle/plan_stock_data)
-* [API：plan_stock_api](https://github.com/lianghongle/plan_stock_api)
-* [展示：plan_stock_web](https://github.com/lianghongle/plan_stock_web)
-* [微信小程序：plan_stock_wx_miniprogram](https://github.com/lianghongle/plan_stock_wx_miniprogram)
+* [数据：stock_plan_data](https://github.com/lianghongle/stock_plan_data)
+* [API：stock_plan_api](https://github.com/lianghongle/stock_plan_api)
+* [展示：stock_plan_web](https://github.com/lianghongle/stock_plan_web)
+* [微信小程序：stock_plan_wx_miniprogram](https://github.com/lianghongle/stock_plan_wx_miniprogram)
